@@ -1,0 +1,15 @@
+.st {
+    width: 350px;
+    height: 40px;
+    margin-left: 30px;
+    margin: 10px;
+    background-color: rgb(85, 10, 79);
+    border-radius: 50px;
+}
+.body {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(41, 19, 59);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
